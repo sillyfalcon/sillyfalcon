@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Anushree aka @sillyfalcon
-- 👀 I’m passionate about Machine Learning and Data Science
-- 🌱 I’m currently practicing advanced coding
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 👋 Hi, I’m Anushree aka @sillyfalcon. 👀 I’m passionate about Machine Learning and Data Science and looking to collaborate on Machine Learning projects
 
 <!---
 sillyfalcon/sillyfalcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
