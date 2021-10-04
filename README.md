@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sillyfalcon
+- 👋 Hi, I’m Anushree aka @sillyfalcon
 - 👀 I’m passionate about Machine Learning and Data Science
 - 🌱 I’m currently practicing advanced coding
 - 💞️ I’m looking to collaborate on Machine Learning projects
